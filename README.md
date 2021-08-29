@@ -1,4 +1,4 @@
 # ITF-Lab 2018
 
-##Aruthor
+## Aruthor
 พนธกร ธีรานุตร 64070070
